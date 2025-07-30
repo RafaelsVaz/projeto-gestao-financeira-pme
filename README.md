@@ -31,4 +31,4 @@ A ferramenta utiliza fórmulas avançadas para automatizar cálculos, gerar rela
 ![Controle de Estoque](estoque.png) 
 
 **Lançamentos de Entradas e Saídas do Caixa:**
-![Lançamentos](lancamento.png)
+![Lançamentos](lancamentos.png)
