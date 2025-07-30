@@ -25,12 +25,10 @@ A ferramenta utiliza fórmulas avançadas para automatizar cálculos, gerar rela
 ## Screenshots da Ferramenta
 
 **Tela do Controle de Vendas:**
-![Controle de Vendas](<img width="1351" height="142" alt="image" src="https://github.com/user-attachments/assets/20c600f0-c5f1-4abd-a960-84cdea5c02c7" />
-)
+![Controle de Vendas](foto_vendas.png)
 
 **Tela do Controle de Estoque:**
-![Controle de Estoque](<img width="1308" height="326" alt="image" src="https://github.com/user-attachments/assets/2f2e7d59-f97c-4749-b608-3a0be18ae33e" />
-) 
+![Controle de Estoque](estoque.png) 
 
 **Lançamentos de Entradas e Saídas do Caixa:**
-![Lançamentos](estoque.png)
+![Lançamentos](foto_lancamento.png)
