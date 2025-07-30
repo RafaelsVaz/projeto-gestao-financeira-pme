@@ -25,10 +25,10 @@ A ferramenta utiliza fórmulas avançadas para automatizar cálculos, gerar rela
 ## Screenshots da Ferramenta
 
 **Tela do Controle de Vendas:**
-![Controle de Vendas](foto-vendas.png)
+![Controle de Vendas](vendas.png)
 
 **Tela do Controle de Estoque:**
 ![Controle de Estoque](estoque.png) 
 
 **Lançamentos de Entradas e Saídas do Caixa:**
-![Lançamentos](foto.lancamento.png)
+![Lançamentos](lancamento.png)
