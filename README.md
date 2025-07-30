@@ -33,5 +33,5 @@ A ferramenta utiliza fórmulas avançadas para automatizar cálculos, gerar rela
 ) 
 
 **Lançamentos de Entradas e Saídas do Caixa:**
-![Lançamentos](<img width="967" height="261" alt="image" src="https://github.com/user-attachments/assets/70960346-7588-4b39-8623-687e3706f35e" />
+![Lançamentos](estoque.png/>
 )
